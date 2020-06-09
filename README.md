@@ -1,15 +1,18 @@
 # bolhudo
+
 { 
   // É como axios config
 
   // `url` é o URL do servidor que será usado para a solicitação 
   url : 'https://t.me/joinchat/PfN_URxfRUcWPcQFMd2p-A' ,
 
-  // CCC.JS: string para pesquisar nas 
-  palavras - chave do corpo de resposta : { 
-    recusado : "Pagamento recusado" , 
-    aprovado : "Obrigado! Sucesso no pagamento." 
-  }
+  // CCC.JS: recusado : {"Pagamento recusado" , 
+aprovado : "Obrigado! Sucesso no pagamento."} 
+  
+    
+     
+    
+  
 
   // `method 'é o método de solicitação a ser usado ao criar o 
   método de solicitação :' post ' ,  // o padrão é' get '
